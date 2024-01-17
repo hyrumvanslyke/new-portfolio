@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+This is my second portfolio this time I will be utilizing react to make an interactive portfolio.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
