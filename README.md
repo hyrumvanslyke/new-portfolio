@@ -1,5 +1,5 @@
 # React Portfolio
 
-This is my second portfolio this time I will be utilizing react to make an interactive portfolio. I am hoping to integrate some new technologies into my commits soon.
+This is my second portfolio this time I will be utilizing react to make an interactive portfolio. I am hoping to integrate some new technologies into my commits soon.should be up before valentines day.
 
 
